@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image10.jpg</filename>
+	<path>D:\PROJECT\localization\Keras-retinanet-Training-on-custom-datasets-for-Object-Detection--master\dataset\images\image10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ring</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>81</ymin>
+			<xmax>167</xmax>
+			<ymax>175</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image6.jpg</filename>
+	<path>D:\PROJECT\localization\Keras-retinanet-Training-on-custom-datasets-for-Object-Detection--master\dataset\images\image6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>251</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Earring</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>109</ymin>
+			<xmax>88</xmax>
+			<ymax>171</ymax>
+		</bndbox>
+	</object>
+</annotation>
